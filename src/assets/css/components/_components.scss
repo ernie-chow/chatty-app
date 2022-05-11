@@ -1,0 +1,14 @@
+.p-button {
+    transition: 
+        background-color ease-in-out 0.15s,
+        border-color ease-in-out 0.15s;
+}
+
+.login-container {
+    padding: 2rem;
+    max-width: 720px;
+
+    .row {
+        margin-bottom: 2rem;
+    }
+}
